@@ -8,11 +8,11 @@
 ---
 
 ### 👨‍💻 About Me
-- 🌱 Currently learning **Next.js, Prisma & Cloud Deployment**
-- 💼 Working on projects like **Resume Builder**, **Food Store**, and **Agri-Marketplace**
+- 🌱 Currently learning **Next.js, Prisma, ReactJs Express JS**
+- 💼 Working on projects like **Resume Builder**, **Food Store**, and **Mero Charts**
 - 🧠 I love solving problems with **clean, maintainable, and scalable code**
 - 💬 Ask me about **React, Next.js, Express.js, MongoDB, or Prisma**
-- ⚡ Fun fact: **I love football, guitar, and coding late at night**
+- ⚡ Fun fact: **I love football, Cricket, guitar, and coding late at night**
 - 📫 Reach me at **anojbudathoki17@gmail.com**
 
 ---
@@ -60,7 +60,7 @@
 ### 🚀 Featured Projects
 - 🧾 [**Resume Builder**](#) — Build and customize your professional resume easily.
 - 🛒 [**Food Store**](#) — E-commerce platform with product management & cart functionality.
-- 🌾 [**Agri-Marketplace**](#) — Connecting farmers with buyers across Nepal.
+- 🌾 [**Mero Charts**](#) — A dynamic **Nepal stock market insights** platform built with **Next.js** & **Chart.js**, providing real-time analytics and visualization. 
 - 💬 [**Chat App**](#) — Real-time chat app with smooth UI and message persistence.
 
 ---
